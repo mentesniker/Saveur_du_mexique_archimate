@@ -67,10 +67,10 @@
     <element xsi:type="archimate:DataObject" name="New seller" id="id-f9d77919465c495ca20cacb6ddfe7d68"/>
   </folder>
   <folder name="Technology &amp; Physical" id="id-5bb73f7df95d4256b2c1dcd1e1ec1751" type="technology">
-    <element xsi:type="archimate:TechnologyService" name="Distributed users DB" id="id-c4b7b984541c4d78820719a7bb337214"/>
-    <element xsi:type="archimate:TechnologyService" name="Distributed inventory DB" id="id-ef810acdd97d4ecfb8bd9ea44f85ec52"/>
-    <element xsi:type="archimate:TechnologyService" name="Distributed products DB" id="id-6470dc20a7684e97a108ae6bd5e1f054"/>
-    <element xsi:type="archimate:TechnologyService" name="Distributed payments DB" id="id-b44bae4bed334a828d0a3b422e0b7b34"/>
+    <element xsi:type="archimate:TechnologyService" name="Users DB" id="id-c4b7b984541c4d78820719a7bb337214"/>
+    <element xsi:type="archimate:TechnologyService" name="Inventory DB" id="id-ef810acdd97d4ecfb8bd9ea44f85ec52"/>
+    <element xsi:type="archimate:TechnologyService" name="Products DB" id="id-6470dc20a7684e97a108ae6bd5e1f054"/>
+    <element xsi:type="archimate:TechnologyService" name="Payments DB" id="id-b44bae4bed334a828d0a3b422e0b7b34"/>
     <element xsi:type="archimate:CommunicationNetwork" name="VPN" id="id-ae5f1a77e48f4b24928ccfb465bfa14d"/>
     <element xsi:type="archimate:Artifact" name="Products info" id="id-65e53eef2d1947c6b34030fb844b8b97"/>
     <element xsi:type="archimate:Artifact" name="products not yet for sale info" id="id-26b26446b9b546ab8ea4dee821c34edd"/>

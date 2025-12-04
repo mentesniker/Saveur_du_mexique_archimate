@@ -265,7 +265,7 @@
         <bounds x="587" y="456" width="120" height="55"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Application" id="id-3c18ad6b56a54c4db1f235508b24b83d">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Application buying products" id="id-3c18ad6b56a54c4db1f235508b24b83d">
       <child xsi:type="archimate:DiagramObject" id="id-8b560c0a1f9e4a6eab6fd6fd6a7fe43b" archimateElement="id-d71c497efabe450ea6c109bd638eeb8f">
         <bounds x="648" y="205" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-626ea30d463a4259897ea743f1d4bec3" source="id-8b560c0a1f9e4a6eab6fd6fd6a7fe43b" target="id-01e9ac9e51e14ba28961bb546be800c0" archimateRelationship="id-da64f3a51f244b7dbc7800473e83978f"/>
